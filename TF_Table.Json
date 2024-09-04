@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "League": "Laliga",
-      "team1": "Atletico Madrid",
-      "team2": "Barcelona",
+      "League": "EPL",
+      "team1": "Manchester City",
+      "team2": "Chelsea",
       "Score": "2024-01-01T19:00:00.000Z",
       "date": "12-AUS",
       "time": "1899-12-29T19:43:48.000Z",
@@ -12,7 +12,7 @@
       "GPN2": ""
     },
     {
-      "League": "Laliga",
+      "League": "EPL",
       "team1": "Real Madrid",
       "team2": "Osasuna",
       "Score": "2024-01-02T19:00:00.000Z",
@@ -23,7 +23,7 @@
       "GPN2": ""
     },
     {
-      "League": "Laliga",
+      "League": "EPL",
       "team1": "Barcelona",
       "team2": "Osasuna",
       "Score": "2024-01-03T19:00:00.000Z",
@@ -34,7 +34,7 @@
       "GPN2": ""
     },
     {
-      "League": "Laliga",
+      "League": "EPL",
       "team1": "Real Sociedad",
       "team2": "Real Valladolid",
       "Score": "2024-01-04T19:00:00.000Z",
@@ -45,7 +45,7 @@
       "GPN2": ""
     },
     {
-      "League": "Laliga",
+      "League": "EPL",
       "team1": "Athletic Bilbao",
       "team2": "Sevilla",
       "Score": "2024-01-05T19:00:00.000Z",
