@@ -1,10 +1,10 @@
 {
-  "League": {
-    "field1": "team1",
-    "field2": "team2"
+  "Laliga": {
+    "field1": "Real Madrid",
+    "field2": "Athletic Bilbao"
   },
   "EPL": {
-    "field1": "Chelsea",
-    "field2": "Leicester City"
+    "field1": "Manchester United",
+    "field2": "Arsenal"
   }
 }
