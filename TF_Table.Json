@@ -1,10 +1,70 @@
 {
-  "Laliga": {
-    "field1": "Real Madrid",
-    "field2": "Athletic Bilbao"
-  },
-  "EPL": {
-    "field1": "Manchester United",
-    "field2": "Arsenal"
-  }
+  "data": [
+    {
+      "League": "",
+      "team1": "",
+      "team2": "",
+      "Score": "",
+      "date": "",
+      "time": "",
+      "TV": "",
+      "GPN1": "",
+      "GPN2": ""
+    },
+    {
+      "League": "",
+      "team1": "",
+      "team2": "",
+      "Score": "",
+      "date": "",
+      "time": "",
+      "TV": "",
+      "GPN1": "",
+      "GPN2": ""
+    },
+    {
+      "League": "",
+      "team1": "",
+      "team2": "",
+      "Score": "",
+      "date": "",
+      "time": "",
+      "TV": "",
+      "GPN1": "",
+      "GPN2": ""
+    },
+    {
+      "League": "",
+      "team1": "",
+      "team2": "",
+      "Score": "",
+      "date": "",
+      "time": "",
+      "TV": "",
+      "GPN1": "",
+      "GPN2": ""
+    },
+    {
+      "League": "",
+      "team1": "",
+      "team2": " ",
+      "Score": "",
+      "date": "",
+      "time": "",
+      "TV": "",
+      "GPN1": "",
+      "GPN2": ""
+    },
+    {
+      "League": "",
+      "team1": " ",
+      "team2": " ",
+      "Score": "",
+      "date": "",
+      "time": "",
+      "TV": "",
+      "GPN1": "",
+      "GPN2": ""
+    }
+  ]
 }
