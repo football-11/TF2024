@@ -1,70 +1,10 @@
 {
-  "data": [
-    {
-      "League": "",
-      "team1": "",
-      "team2": "",
-      "Score": "",
-      "date": "",
-      "time": "",
-      "TV": "",
-      "GPN1": "",
-      "GPN2": ""
-    },
-    {
-      "League": "",
-      "team1": "",
-      "team2": "",
-      "Score": "",
-      "date": "",
-      "time": "",
-      "TV": "",
-      "GPN1": "",
-      "GPN2": ""
-    },
-    {
-      "League": "",
-      "team1": "",
-      "team2": "",
-      "Score": "",
-      "date": "",
-      "time": "",
-      "TV": "",
-      "GPN1": "",
-      "GPN2": ""
-    },
-    {
-      "League": "",
-      "team1": "",
-      "team2": "",
-      "Score": "",
-      "date": "",
-      "time": "",
-      "TV": "",
-      "GPN1": "",
-      "GPN2": ""
-    },
-    {
-      "League": "",
-      "team1": "",
-      "team2": " ",
-      "Score": "",
-      "date": "",
-      "time": "",
-      "TV": "",
-      "GPN1": "",
-      "GPN2": ""
-    },
-    {
-      "League": "",
-      "team1": " ",
-      "team2": " ",
-      "Score": "",
-      "date": "",
-      "time": "",
-      "TV": "",
-      "GPN1": "",
-      "GPN2": ""
-    }
-  ]
+  "League": {
+    "field1": "team1",
+    "field2": "team2"
+  },
+  "EPL": {
+    "field1": "Chelsea",
+    "field2": "Leicester City"
+  }
 }
