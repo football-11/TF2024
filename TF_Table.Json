@@ -21,6 +21,28 @@
       "TV": "",
       "GPN1": "",
       "GPN2": ""
+    },
+    {
+      "League": "EPL",
+      "team1": "",
+      "team2": "",
+      "Score": "",
+      "date": "",
+      "time": "",
+      "TV": "",
+      "GPN1": "",
+      "GPN2": ""
+    },
+    {
+      "League": "Laliga",
+      "team1": "",
+      "team2": "",
+      "Score": "",
+      "date": "",
+      "time": "",
+      "TV": "",
+      "GPN1": "",
+      "GPN2": ""
     }
   ]
 }
