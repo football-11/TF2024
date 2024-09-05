@@ -1,68 +1,13 @@
 {
   "data": [
     {
-      "League": "EPL",
-      "team1": "Aston Villa",
-      "team2": "Nottingham Forest",
-      "Score": "1-2",
-      "date": "12-AUS",
-      "time": "0:12",
-      "TV": "ICE SPORTS",
-      "GPN1": "",
-      "GPN2": ""
-    },
-    {
       "League": "Laliga",
-      "team1": "Athletic Bilbao",
-      "team2": "Rayo Vallecano",
-      "Score": "1-3",
-      "date": "12-AUS",
-      "time": "1:12",
-      "TV": "ICE PLUS",
-      "GPN1": "",
-      "GPN2": ""
-    },
-    {
-      "League": "EPL",
-      "team1": "West Ham",
-      "team2": "Crystal Palace",
-      "Score": "1-4",
-      "date": "12-AUS",
-      "time": "2:12",
-      "TV": "ICE PLUS",
-      "GPN1": "",
-      "GPN2": ""
-    },
-    {
-      "League": "Laliga",
-      "team1": "Athletic Bilbao",
-      "team2": "Osasuna",
-      "Score": "1-5",
-      "date": "12-AUS",
-      "time": "3:12",
-      "TV": "ICE PLUS",
-      "GPN1": "",
-      "GPN2": ""
-    },
-    {
-      "League": "EPL",
-      "team1": "Manchester United",
-      "team2": "Bournemouth",
-      "Score": "1-6",
-      "date": "12-AUS",
-      "time": "4:12",
-      "TV": "ICE",
-      "GPN1": "",
-      "GPN2": ""
-    },
-    {
-      "League": "Laliga",
-      "team1": "Alaves",
-      "team2": "Mallorca",
-      "Score": "1-7",
-      "date": "12-AUS",
-      "time": "5:12",
-      "TV": "ICE SPORTS",
+      "team1": "",
+      "team2": "",
+      "Score": "",
+      "date": "",
+      "time": "",
+      "TV": "",
       "GPN1": "",
       "GPN2": ""
     }
