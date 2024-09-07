@@ -1,144 +1,36 @@
 {
   "data": [
     {
-      "EPL": "Laliga",
-      "Man City": "Liverpool",
-      "Atletico Madrid": "Real Madrid",
-      "ICE": "ICE SPORTS",
-      "": ""
+      "League": "EPL",
+      "team1": "Leicester ",
+      "Possession %": 66,
+      "Shots on target": 66,
+      "Shots": 66,
+      "Passes": 66,
+      "Touches": 66,
+      "Tackles": 66,
+      "Clearances": 66,
+      "Corners": 66,
+      "Offsides": 66,
+      "Yellow cards": 66,
+      "Red cards": 66,
+      "Fouls conceded": 66
     },
     {
-      "EPL": "",
-      "Man City": "Chelsea",
-      "Atletico Madrid": "Sevilla",
-      "ICE": "ICE PLUS",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "Man Utd",
-      "Atletico Madrid": "Barcelona",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "Arsenal",
-      "Atletico Madrid": "Sociedad",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "Leicester ",
-      "Atletico Madrid": "Villarreal",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "Tottenham ",
-      "Atletico Madrid": "Athletic Club",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "Bournemouth",
-      "Atletico Madrid": "Betis",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "Southampton",
-      "Atletico Madrid": "Valladolid",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "Everton",
-      "Atletico Madrid": "Girona",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "Wolves",
-      "Atletico Madrid": "Vallecano",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "Brighton",
-      "Atletico Madrid": "Leganes",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "West Ham",
-      "Atletico Madrid": "Espanyol",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "Fulham",
-      "Atletico Madrid": "Osasuna",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "Brentford",
-      "Atletico Madrid": "Valencia",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "Aston Villa",
-      "Atletico Madrid": "Alaves",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "Nott'm Forest",
-      "Atletico Madrid": "Mallorca",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "Newcastle",
-      "Atletico Madrid": "Getafe",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "Ipswich ",
-      "Atletico Madrid": "Las Palmas",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "Crystal Palace",
-      "Atletico Madrid": "Celta Vigo",
-      "ICE": "",
-      "": ""
-    },
-    {
-      "EPL": "",
-      "Man City": "NOPhoto",
-      "Atletico Madrid": "NOPhoto",
-      "ICE": "",
-      "": ""
+      "League": "Laliga",
+      "team1": "Bournemouth",
+      "Possession %": 54,
+      "Shots on target": 54,
+      "Shots": 54,
+      "Passes": 54,
+      "Touches": 54,
+      "Tackles": 54,
+      "Clearances": 54,
+      "Corners": 54,
+      "Offsides": 54,
+      "Yellow cards": 54,
+      "Red cards": 54,
+      "Fouls conceded": 54
     }
   ]
 }
