@@ -2,7 +2,7 @@
   "data": [
     {
       "League": "EPL",
-      "team1": "Athletic Club",
+      "team1": "Sevilla",
       "Possession %": 4,
       "Shots on target": 4,
       "Shots": 4,
@@ -17,8 +17,8 @@
       "Fouls conceded": 4
     },
     {
-      "League": "EPL",
-      "team1": "Athletic Club",
+      "League": "Laliga",
+      "team1": "Valladolid",
       "Possession %": 14,
       "Shots on target": 14,
       "Shots": 14,
