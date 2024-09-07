@@ -20,17 +20,17 @@
       "League": "EPL",
       "team1": "West Ham",
       "Possession %": 1,
-      "Shots on target": 0,
-      "Shots": 0,
-      "Passes": 0,
-      "Touches": 0,
-      "Tackles": 0,
-      "Clearances": 0,
-      "Corners": 0,
-      "Offsides": 0,
-      "Yellow cards": 0,
-      "Red cards": 0,
-      "Fouls conceded": 0
+      "Shots on target": 1,
+      "Shots": 1,
+      "Passes": 1,
+      "Touches": 1,
+      "Tackles": 1,
+      "Clearances": 1,
+      "Corners": 1,
+      "Offsides": 1,
+      "Yellow cards": 1,
+      "Red cards": 1,
+      "Fouls conceded": 1
     }
   ]
 }
