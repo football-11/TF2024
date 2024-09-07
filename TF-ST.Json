@@ -2,7 +2,7 @@
   "data": [
     {
       "League": "EPL",
-      "team1": "Mallorca",
+      "team1": "Man City",
       "Possession %": 66,
       "Shots on target": 66,
       "Shots": 66,
@@ -18,7 +18,7 @@
     },
     {
       "League": "EPL",
-      "team1": "Brentford",
+      "team1": "Liverpool",
       "Possession %": 54,
       "Shots on target": 54,
       "Shots": 54,
