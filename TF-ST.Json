@@ -1,8 +1,8 @@
 {
   "data": [
     {
-      "League": "Laliga",
-      "team1": "Sociedad",
+      "League": "EPL",
+      "team1": "Sevilla",
       "Possession %": 4,
       "Shots on target": 4,
       "Shots": 4,
@@ -18,7 +18,7 @@
     },
     {
       "League": "Laliga",
-      "team1": "Atletico Madrid",
+      "team1": "Valladolid",
       "Possession %": 14,
       "Shots on target": 14,
       "Shots": 14,
