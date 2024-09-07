@@ -3,7 +3,7 @@
     {
       "League": "EPL",
       "team1": "Everton",
-      "Possession %": 0,
+      "Possession %": 1,
       "Shots on target": 0,
       "Shots": 0,
       "Passes": 0,
@@ -19,7 +19,7 @@
     {
       "League": "EPL",
       "team1": "West Ham",
-      "Possession %": 0,
+      "Possession %": 1,
       "Shots on target": 0,
       "Shots": 0,
       "Passes": 0,
