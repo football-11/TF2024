@@ -1,36 +1,36 @@
 {
   "data": [
     {
-      "League": "Laliga",
-      "team1": "Crystal Palace",
-      "Possession %": 55,
-      "Shots on target": 55,
-      "Shots": 55,
-      "Passes": 55,
-      "Touches": 55,
-      "Tackles": 55,
-      "Clearances": 55,
-      "Corners": 55,
-      "Offsides": 55,
-      "Yellow cards": 55,
-      "Red cards": 55,
-      "Fouls conceded": 55
+      "League": "EPL",
+      "team1": "Sociedad",
+      "Possession %": 12,
+      "Shots on target": 12,
+      "Shots": 12,
+      "Passes": 12,
+      "Touches": 12,
+      "Tackles": 12,
+      "Clearances": 12,
+      "Corners": 12,
+      "Offsides": 12,
+      "Yellow cards": 12,
+      "Red cards": 12,
+      "Fouls conceded": 12
     },
     {
       "League": "Laliga",
-      "team1": "Ipswich ",
-      "Possession %": 22,
-      "Shots on target": 22,
-      "Shots": 22,
-      "Passes": 22,
-      "Touches": 22,
-      "Tackles": 22,
-      "Clearances": 22,
-      "Corners": 22,
-      "Offsides": 22,
-      "Yellow cards": 22,
-      "Red cards": 22,
-      "Fouls conceded": 22
+      "team1": "Villarreal",
+      "Possession %": 33,
+      "Shots on target": 33,
+      "Shots": 33,
+      "Passes": 33,
+      "Touches": 33,
+      "Tackles": 33,
+      "Clearances": 33,
+      "Corners": 33,
+      "Offsides": 33,
+      "Yellow cards": 33,
+      "Red cards": 33,
+      "Fouls conceded": 33
     }
   ]
 }
