@@ -1,36 +1,36 @@
 {
   "data": [
     {
-      "League": "EPL",
-      "team1": "Man City",
-      "Possession %": 333,
-      "Shots on target": 333,
-      "Shots": 333,
-      "Passes": 333,
-      "Touches": 333,
-      "Tackles": 333,
-      "Clearances": 333,
-      "Corners": 333,
-      "Offsides": 333,
-      "Yellow cards": 333,
-      "Red cards": 333,
-      "Fouls conceded": 333
+      "League": "Laliga",
+      "team1": "Real Madrid",
+      "Possession %": 444,
+      "Shots on target": 12,
+      "Shots": 12,
+      "Passes": 12,
+      "Touches": 12,
+      "Tackles": 12,
+      "Clearances": 12,
+      "Corners": 12,
+      "Offsides": 12,
+      "Yellow cards": 12,
+      "Red cards": 12,
+      "Fouls conceded": 12
     },
     {
       "League": "EPL",
-      "team1": "Liverpool",
-      "Possession %": 122,
-      "Shots on target": 122,
-      "Shots": 122,
-      "Passes": 122,
-      "Touches": 122,
-      "Tackles": 122,
-      "Clearances": 122,
-      "Corners": 122,
-      "Offsides": 122,
-      "Yellow cards": 122,
-      "Red cards": 122,
-      "Fouls conceded": 122
+      "team1": "Man City",
+      "Possession %": 444,
+      "Shots on target": 33,
+      "Shots": 33,
+      "Passes": 33,
+      "Touches": 33,
+      "Tackles": 33,
+      "Clearances": 33,
+      "Corners": 33,
+      "Offsides": 33,
+      "Yellow cards": 33,
+      "Red cards": 33,
+      "Fouls conceded": 33
     }
   ]
 }
