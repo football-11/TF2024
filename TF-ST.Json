@@ -2,8 +2,8 @@
   "data": [
     {
       "League": "EPL",
-      "team1": "",
-      "team2": "",
+      "team1": "Man City",
+      "team2": "Liverpool",
       "Score": "",
       "Form": "W,W,L,D,W"
     },
