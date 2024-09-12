@@ -1,56 +1,50 @@
 {
   "data": [
     {
-      "League": "EPL",
-      "team1": "Liverpool",
-      "H-OR-A_1": "",
-      "team2": "Arsenal",
-      "H-OR-A_2": "",
+      "League": "Laliga",
+      "team1": "",
+      "team2": "",
+      "": "",
       "Score": "",
       "Form": "W"
     },
     {
       "League": "",
-      "team1": "Man Utd",
-      "H-OR-A_1": "(A)",
-      "team2": "Arsenal",
-      "H-OR-A_2": "(A)",
+      "team1": "",
+      "team2": "",
+      "": "",
       "Score": "",
       "Form": "D"
     },
     {
       "League": "",
-      "team1": "Arsenal",
-      "H-OR-A_1": "(H)",
-      "team2": "Leicester ",
-      "H-OR-A_2": "(A)",
+      "team1": "",
+      "team2": "",
+      "": "",
       "Score": "",
       "Form": "L"
     },
     {
       "League": "",
-      "team1": "Arsenal",
-      "H-OR-A_1": "",
-      "team2": "Arsenal",
-      "H-OR-A_2": "(A)",
+      "team1": "",
+      "team2": "",
+      "": "",
       "Score": "",
       "Form": "W"
     },
     {
       "League": "",
-      "team1": "Arsenal",
-      "H-OR-A_1": "",
-      "team2": "Arsenal",
-      "H-OR-A_2": "(A)",
+      "team1": "",
+      "team2": "",
+      "": "",
       "Score": "",
       "Form": "D"
     },
     {
       "League": "",
-      "team1": "Arsenal",
-      "H-OR-A_1": "",
-      "team2": "Man Utd",
-      "H-OR-A_2": "(A)",
+      "team1": "",
+      "team2": "",
+      "": "",
       "Score": "",
       "Form": "W"
     }
