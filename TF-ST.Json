@@ -1,56 +1,50 @@
 {
   "data": [
     {
-      "League": "Laliga",
+      "League": "EPL",
       "team1": "",
-      "H-OR-A_1": "",
       "team2": "",
-      "H-OR-A_2": "",
+      "": "",
       "Score": "",
       "Form": "W"
     },
     {
       "League": "",
       "team1": "",
-      "H-OR-A_1": "",
       "team2": "",
-      "H-OR-A_2": "",
+      "": "",
       "Score": "",
       "Form": "D"
     },
     {
       "League": "",
       "team1": "",
-      "H-OR-A_1": "",
       "team2": "",
-      "H-OR-A_2": "",
+      "": "",
       "Score": "",
       "Form": "L"
     },
     {
       "League": "",
       "team1": "",
-      "H-OR-A_1": "",
       "team2": "",
-      "H-OR-A_2": "",
+      "": "",
       "Score": "",
       "Form": "W"
     },
     {
       "League": "",
       "team1": "",
-      "H-OR-A_1": "",
       "team2": "",
-      "H-OR-A_2": "",
+      "": "",
       "Score": "",
       "Form": "D"
     },
     {
       "League": "",
       "team1": "",
-      "H-OR-A_1": "",
       "team2": "",
-      "H-OR-A_2": "",
+      "": "",
       "Score": "",
       "Form": "W"
     }
