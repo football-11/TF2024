@@ -2,45 +2,33 @@
   "data": [
     {
       "League": "EPL",
-      "team1": "",
-      "team2": "",
-      "Score": "",
-      "Form": "W"
+      "team1": "Liverpool",
+      "team2": "Arsenal"
     },
     {
       "League": "",
-      "team1": "",
-      "team2": "",
-      "Score": "",
-      "Form": "D"
+      "team1": "Man Utd",
+      "team2": "Arsenal"
     },
     {
       "League": "",
-      "team1": "",
-      "team2": "",
-      "Score": "",
-      "Form": "L"
+      "team1": "Arsenal",
+      "team2": "Leicester "
     },
     {
       "League": "",
-      "team1": "",
-      "team2": "",
-      "Score": "",
-      "Form": "W"
+      "team1": "Arsenal",
+      "team2": "Arsenal"
     },
     {
       "League": "",
-      "team1": "",
-      "team2": "",
-      "Score": "",
-      "Form": "D"
+      "team1": "Arsenal",
+      "team2": "Arsenal"
     },
     {
       "League": "",
-      "team1": "",
-      "team2": "",
-      "Score": "",
-      "Form": "W"
+      "team1": "Arsenal",
+      "team2": "Man Utd"
     }
   ]
 }
