@@ -3,7 +3,7 @@
     {
       "LEAGUE": "EPL",
       "TEAM 1": "Liverpool",
-      "HOME-AWAY T1": "",
+      "H-A T1": "",
       "SCORE T1": "",
       "W-D-L T1": "",
       "TEAM 2": "Wolves",
@@ -13,7 +13,7 @@
     {
       "LEAGUE": "",
       "TEAM 1": "Newcastle",
-      "HOME-AWAY T1": "(A)",
+      "H-A T1": "(A)",
       "SCORE T1": "6-5",
       "W-D-L T1": "D",
       "TEAM 2": "Nott'm Forest",
@@ -23,7 +23,7 @@
     {
       "LEAGUE": "",
       "TEAM 1": "Wolves",
-      "HOME-AWAY T1": "(A)",
+      "H-A T1": "(A)",
       "SCORE T1": "2-4",
       "W-D-L T1": "L",
       "TEAM 2": "Newcastle",
@@ -33,7 +33,7 @@
     {
       "LEAGUE": "",
       "TEAM 1": "Bournemouth",
-      "HOME-AWAY T1": "(A)",
+      "H-A T1": "(A)",
       "SCORE T1": "2-5",
       "W-D-L T1": "W",
       "TEAM 2": "Ipswich ",
@@ -43,7 +43,7 @@
     {
       "LEAGUE": "",
       "TEAM 1": "Man Utd",
-      "HOME-AWAY T1": "(H)",
+      "H-A T1": "(H)",
       "SCORE T1": "2-6",
       "W-D-L T1": "D",
       "TEAM 2": "Southampton",
@@ -53,7 +53,7 @@
     {
       "LEAGUE": "",
       "TEAM 1": "Nott'm Forest",
-      "HOME-AWAY T1": "(H)",
+      "H-A T1": "(H)",
       "SCORE T1": "2-7",
       "W-D-L T1": "W",
       "TEAM 2": "Nott'm Forest",
