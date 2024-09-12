@@ -7,7 +7,8 @@
       "Score-T1": "5-8",
       "Form-TM1": "W",
       "team2": "Arsenal",
-      "H-OR-A_2": ""
+      "H-OR-A_2": "",
+      "Score-T2": "5-8"
     },
     {
       "League": "",
@@ -16,7 +17,8 @@
       "Score-T1": "6-5",
       "Form-TM1": "D",
       "team2": "Arsenal",
-      "H-OR-A_2": "(A)"
+      "H-OR-A_2": "(A)",
+      "Score-T2": "6-5"
     },
     {
       "League": "",
@@ -25,7 +27,8 @@
       "Score-T1": "2-4",
       "Form-TM1": "L",
       "team2": "Leicester ",
-      "H-OR-A_2": "(A)"
+      "H-OR-A_2": "(A)",
+      "Score-T2": "2-4"
     },
     {
       "League": "",
@@ -34,7 +37,8 @@
       "Score-T1": "4-6",
       "Form-TM1": "W",
       "team2": "Arsenal",
-      "H-OR-A_2": "(A)"
+      "H-OR-A_2": "(A)",
+      "Score-T2": "4-6"
     },
     {
       "League": "",
@@ -43,7 +47,8 @@
       "Score-T1": "3-1",
       "Form-TM1": "D",
       "team2": "Arsenal",
-      "H-OR-A_2": "(A)"
+      "H-OR-A_2": "(A)",
+      "Score-T2": "3-1"
     },
     {
       "League": "",
@@ -52,7 +57,8 @@
       "Score-T1": "1-1",
       "Form-TM1": "W",
       "team2": "Man Utd",
-      "H-OR-A_2": "(A)"
+      "H-OR-A_2": "(A)",
+      "Score-T2": "1-1"
     }
   ]
 }
