@@ -1,64 +1,164 @@
 {
   "data": [
     {
-      "LEAGUE": "Laliga",
-      "TEAM 1": "Liverpool",
-      "H-A T1": "",
-      "SCORE T1": "",
-      "W-D-L T1": "",
-      "TEAM 2": "Wolves",
-      "H-A T2": "",
-      "W-D-L T2": ""
+      "EPL": "Laliga",
+      "Man City": "Liverpool",
+      "Atletico Madrid": "Real Madrid",
+      "ICE": "ICE SPORTS",
+      "(A)": "(H)",
+      "": ""
     },
     {
-      "LEAGUE": "",
-      "TEAM 1": "Newcastle",
-      "H-A T1": "(A)",
-      "SCORE T1": "6-5",
-      "W-D-L T1": "D",
-      "TEAM 2": "Nott'm Forest",
-      "H-A T2": "(A)",
-      "W-D-L T2": "D"
+      "EPL": "",
+      "Man City": "Chelsea",
+      "Atletico Madrid": "Sevilla",
+      "ICE": "ICE PLUS",
+      "(A)": "",
+      "": ""
     },
     {
-      "LEAGUE": "",
-      "TEAM 1": "Wolves",
-      "H-A T1": "(A)",
-      "SCORE T1": "2-4",
-      "W-D-L T1": "L",
-      "TEAM 2": "Newcastle",
-      "H-A T2": "(A)",
-      "W-D-L T2": "L"
+      "EPL": "",
+      "Man City": "Man Utd",
+      "Atletico Madrid": "Barcelona",
+      "ICE": "",
+      "(A)": "",
+      "": ""
     },
     {
-      "LEAGUE": "",
-      "TEAM 1": "Bournemouth",
-      "H-A T1": "(A)",
-      "SCORE T1": "2-5",
-      "W-D-L T1": "W",
-      "TEAM 2": "Ipswich ",
-      "H-A T2": "(H)",
-      "W-D-L T2": "W"
+      "EPL": "",
+      "Man City": "Arsenal",
+      "Atletico Madrid": "Sociedad",
+      "ICE": "",
+      "(A)": "",
+      "": ""
     },
     {
-      "LEAGUE": "",
-      "TEAM 1": "Man Utd",
-      "H-A T1": "(H)",
-      "SCORE T1": "2-6",
-      "W-D-L T1": "D",
-      "TEAM 2": "Southampton",
-      "H-A T2": "(H)",
-      "W-D-L T2": "D"
+      "EPL": "",
+      "Man City": "Leicester ",
+      "Atletico Madrid": "Villarreal",
+      "ICE": "",
+      "(A)": "",
+      "": ""
     },
     {
-      "LEAGUE": "",
-      "TEAM 1": "Nott'm Forest",
-      "H-A T1": "(H)",
-      "SCORE T1": "2-7",
-      "W-D-L T1": "W",
-      "TEAM 2": "Nott'm Forest",
-      "H-A T2": "(A)",
-      "W-D-L T2": "W"
+      "EPL": "",
+      "Man City": "Tottenham ",
+      "Atletico Madrid": "Athletic Club",
+      "ICE": "",
+      "(A)": "",
+      "": ""
+    },
+    {
+      "EPL": "",
+      "Man City": "Bournemouth",
+      "Atletico Madrid": "Betis",
+      "ICE": "",
+      "(A)": "",
+      "": ""
+    },
+    {
+      "EPL": "",
+      "Man City": "Southampton",
+      "Atletico Madrid": "Valladolid",
+      "ICE": "",
+      "(A)": "",
+      "": ""
+    },
+    {
+      "EPL": "",
+      "Man City": "Everton",
+      "Atletico Madrid": "Girona",
+      "ICE": "",
+      "(A)": "",
+      "": ""
+    },
+    {
+      "EPL": "",
+      "Man City": "Wolves",
+      "Atletico Madrid": "Vallecano",
+      "ICE": "",
+      "(A)": "",
+      "": ""
+    },
+    {
+      "EPL": "",
+      "Man City": "Brighton",
+      "Atletico Madrid": "Leganes",
+      "ICE": "",
+      "(A)": "",
+      "": ""
+    },
+    {
+      "EPL": "",
+      "Man City": "West Ham",
+      "Atletico Madrid": "Espanyol",
+      "ICE": "",
+      "(A)": "",
+      "": ""
+    },
+    {
+      "EPL": "",
+      "Man City": "Fulham",
+      "Atletico Madrid": "Osasuna",
+      "ICE": "",
+      "(A)": "",
+      "": ""
+    },
+    {
+      "EPL": "",
+      "Man City": "Brentford",
+      "Atletico Madrid": "Valencia",
+      "ICE": "",
+      "(A)": "",
+      "": ""
+    },
+    {
+      "EPL": "",
+      "Man City": "Aston Villa",
+      "Atletico Madrid": "Alaves",
+      "ICE": "",
+      "(A)": "",
+      "": ""
+    },
+    {
+      "EPL": "",
+      "Man City": "Nott'm Forest",
+      "Atletico Madrid": "Mallorca",
+      "ICE": "",
+      "(A)": "",
+      "": ""
+    },
+    {
+      "EPL": "",
+      "Man City": "Newcastle",
+      "Atletico Madrid": "Getafe",
+      "ICE": "",
+      "(A)": "",
+      "": ""
+    },
+    {
+      "EPL": "",
+      "Man City": "Ipswich ",
+      "Atletico Madrid": "Las Palmas",
+      "ICE": "",
+      "(A)": "",
+      "": ""
+    },
+    {
+      "EPL": "",
+      "Man City": "Crystal Palace",
+      "Atletico Madrid": "Celta Vigo",
+      "ICE": "",
+      "(A)": "",
+      "": ""
+    },
+    {
+      "EPL": "",
+      "Man City": "NOPhoto",
+      "Atletico Madrid": "NOPhoto",
+      "ICE": "",
+      "(A)": "",
+      "": ""
     }
   ]
 }
