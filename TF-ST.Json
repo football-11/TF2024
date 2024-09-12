@@ -5,7 +5,7 @@
       "team1": "Liverpool",
       "H-OR-A_1": "",
       "team2": "Arsenal",
-      "": "",
+      "H-OR-A_2": "",
       "Score": "",
       "Form": "W"
     },
@@ -14,7 +14,7 @@
       "team1": "Man Utd",
       "H-OR-A_1": "",
       "team2": "Arsenal",
-      "": "",
+      "H-OR-A_2": "",
       "Score": "",
       "Form": "D"
     },
@@ -23,7 +23,7 @@
       "team1": "Arsenal",
       "H-OR-A_1": "",
       "team2": "Leicester ",
-      "": "",
+      "H-OR-A_2": "",
       "Score": "",
       "Form": "L"
     },
@@ -32,7 +32,7 @@
       "team1": "Arsenal",
       "H-OR-A_1": "",
       "team2": "Arsenal",
-      "": "",
+      "H-OR-A_2": "",
       "Score": "",
       "Form": "W"
     },
@@ -41,7 +41,7 @@
       "team1": "Arsenal",
       "H-OR-A_1": "",
       "team2": "Arsenal",
-      "": "",
+      "H-OR-A_2": "",
       "Score": "",
       "Form": "D"
     },
@@ -50,7 +50,7 @@
       "team1": "Arsenal",
       "H-OR-A_1": "",
       "team2": "Man Utd",
-      "": "",
+      "H-OR-A_2": "",
       "Score": "",
       "Form": "W"
     }
