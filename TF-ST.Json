@@ -21,7 +21,7 @@
     {
       "League": "",
       "team1": "",
-      "H-OR-A_1": "(A)",
+      "H-OR-A_1": "",
       "team2": "",
       "H-OR-A_2": "",
       "Score": "",
@@ -30,7 +30,7 @@
     {
       "League": "",
       "team1": "",
-      "H-OR-A_1": "(A)",
+      "H-OR-A_1": "",
       "team2": "",
       "H-OR-A_2": "",
       "Score": "",
@@ -39,7 +39,7 @@
     {
       "League": "",
       "team1": "",
-      "H-OR-A_1": "(A)",
+      "H-OR-A_1": "",
       "team2": "",
       "H-OR-A_2": "",
       "Score": "",
@@ -48,20 +48,11 @@
     {
       "League": "",
       "team1": "",
-      "H-OR-A_1": "(A)",
+      "H-OR-A_1": "",
       "team2": "",
       "H-OR-A_2": "",
       "Score": "",
       "Form": "W"
-    },
-    {
-      "League": "",
-      "team1": "",
-      "H-OR-A_1": "(A)",
-      "team2": "",
-      "H-OR-A_2": "",
-      "Score": "",
-      "Form": ""
     }
   ]
 }
