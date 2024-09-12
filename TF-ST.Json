@@ -36,7 +36,7 @@
       "H-A T1": "(A)",
       "SCORE T1": "2-5",
       "W-D-L T1": "W",
-      "TEAM 2": "Ipswich ",
+      "TEAM 2": "",
       "H-A T2": "(H)",
       "W-D-L T2": "W"
     },
@@ -46,7 +46,7 @@
       "H-A T1": "(H)",
       "SCORE T1": "2-6",
       "W-D-L T1": "D",
-      "TEAM 2": "Southampton",
+      "TEAM 2": "",
       "H-A T2": "(H)",
       "W-D-L T2": "D"
     },
@@ -56,7 +56,7 @@
       "H-A T1": "(H)",
       "SCORE T1": "2-7",
       "W-D-L T1": "W",
-      "TEAM 2": "Nott'm Forest",
+      "TEAM 2": "",
       "H-A T2": "(A)",
       "W-D-L T2": "W"
     }
